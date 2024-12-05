@@ -1,0 +1,21 @@
+body {
+   font-family: 'Poppins';
+   text-align: center;
+   color: #ffcf00;
+   background-image: radial-gradient(#e49d18, #6e0c0c);
+   height: 100vh;   
+  
+}
+
+h1, h2, p, h3 {
+   text-shadow: 3px 1px 5px #0882c4, 0px 0px 5px #59a6c8;
+   
+}
+h3 {
+   font-size: 30px;
+   margin-top: 45px;
+}
+
+hr {
+   border-color: #6e0c0c;
+}
